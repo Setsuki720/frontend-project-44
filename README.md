@@ -19,7 +19,7 @@
 ## Установка
 
 ```bash
-git clone <url-репозитория>
+git clone git@github.com:Setsuki720/frontend-project-44.git
 cd brain-games
 make install
 sudo npm link
